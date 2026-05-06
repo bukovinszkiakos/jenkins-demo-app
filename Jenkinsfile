@@ -6,7 +6,7 @@ pipeline {
         AWS_REGION = 'eu-central-1'
         ECR_REPO = '554422868760.dkr.ecr.eu-central-1.amazonaws.com/akos-jenkins-demo-app'
         IMAGE_NAME = 'jenkins-demo-app'
-        APP_SERVER = '52.29.7.131'
+        APP_SERVER = '3.79.61.150'
     }
 
     stages {
